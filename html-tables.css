@@ -1,0 +1,16 @@
+#classification-table {
+font-family: 'Courier New', Courier, monospace;
+border-collapse: collapse;
+width: 10%;
+}
+
+td, th {
+  border: 1px solid #1cd60b;
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  background-color: #000000;
+  color: #1cd60b;
+}
