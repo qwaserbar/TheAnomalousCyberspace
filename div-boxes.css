@@ -10,7 +10,7 @@ box-shadow: 10px 10px;
 }
 
 .light-box-left a {
-color: rgb(13, 10, 166);
+color: rgb(0, 0, 255);
 }
 
 .light-box-left a:hover {
@@ -31,7 +31,7 @@ box-shadow: 10px 10px;
 }
 
 .light-box-center a {
-color: rgb(13, 10, 166);
+color: rgb(0, 0, 255);
 }
 
 .light-box-center a:hover {
@@ -52,7 +52,7 @@ box-shadow: 10px 10px;
 }
 
 .light-box-right a {
-color: rgb(13, 10, 166);
+color: rgb(0, 0, 255);
 }
 
 .light-box-right a:hover {
@@ -105,4 +105,14 @@ margin-left: 10px;
 border: 5px;
 border-style: solid;
 border-color: rgb(255, 255, 255);
+}
+
+.light-box-left a {
+color: rgb(0, 0, 255);
+background-color: rgb(135, 148, 138);
+}
+
+.light-box-left a:hover {
+color: rgb(0, 0, 255);
+background-color: rgb(135, 148, 138);
 }
